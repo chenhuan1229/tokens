@@ -1,11 +1,11 @@
 {
  "name": "DMX Token",
- "website": "https://bscscan.com/token/0x002c200A5F72D051d4C890eccEe635a197A1fC82",
+ "website": "https://bscscan.com/token/0x7d16f9c59e0852c3323f93c3d006e2ab2e5c7858",
  "description": "DMX TOKEN.",
- "explorer": "https://bscscan.com/token/0x002c200A5F72D051d4C890eccEe635a197A1fC82",
+ "explorer": "https://bscscan.com/token/0x7d16f9c59e0852c3323f93c3d006e2ab2e5c7858",
  "type": "BEP20",
  "symbol": "DMX",
  "decimals": 18,
  "status": "active",
- "id": "0x002c200A5F72D051d4C890eccEe635a197A1fC82"
+ "id": "0x7d16f9c59e0852c3323f93c3d006e2ab2e5c7858"
 }
